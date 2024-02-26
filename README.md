@@ -17,6 +17,9 @@
 
   <!-- 自我介绍 -->
   <div> Hi yo~ My name is Tim. I am currently working as a software engineer. My hobbies are coding and playing music. I am growing up on the road to becoming an independent development engineer~ </div>
+
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
   
   <!-- profile logo 个人资料徽标 -->
   <div>
