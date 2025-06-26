@@ -10,7 +10,8 @@
   <div>&nbsp;</div>
 
   <!-- 自我介绍 -->
-  <div> Hi yo~ My name is Tim. I am currently working as a software engineer. My hobbies are coding and playing music. I am growing up on the road to becoming an independent development engineer~ </div>
+  <div> Hi~ My name is Tim. I am currently working as a software engineer. My hobbies are coding and playing music. I am growing up on the road to becoming an independent development engineer~ </div>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=nagisa77&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
