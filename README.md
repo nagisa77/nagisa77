@@ -4,7 +4,7 @@
       srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
     <source media="(prefers-color-scheme: light)"
       srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-    <img align="left" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <img  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)"
@@ -12,7 +12,7 @@
     <source media="(prefers-color-scheme: light)"
       srcset="https://github-readme-stats.vercel.app/api?username=nagisa77&show_icons=true&hide_title=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" />
     <!-- 默认兜底（浅色） -->
-    <img align="right"
+    <img
       src="https://github-readme-stats.vercel.app/api?username=nagisa77&show_icons=true&hide_title=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" />
   </picture>
 
