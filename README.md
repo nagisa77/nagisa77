@@ -1,12 +1,20 @@
 <div align="center">
   <!-- knock code pictures 敲代码的图片 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  </picture>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=nagisa77&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=nagisa77&show_icons=true&hide_title=true&icon_color=ff79c6&text_color=f8f8f2&bg_color=282a36"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api?username=nagisa77&show_icons=true&hide_title=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff"
+  />
+  <!-- 默认兜底（浅色） -->
+  <img
+    align="right"
+    src="https://github-readme-stats.vercel.app/api?username=nagisa77&show_icons=true&hide_title=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff"
+  />
+</picture>
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
