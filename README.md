@@ -17,6 +17,9 @@
   <div> Hi there! I’m Tim — a software engineer by day and a music-maker by night. I love writing clean, efficient code,
     jamming on new tunes, and continually leveling up as I journey toward becoming an independent developer. </div>
 
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+
   <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=135014430" target="_blank"
     style="display: block" align="center">
     <picture>
