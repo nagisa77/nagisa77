@@ -1,15 +1,4 @@
 <div align="center">
-  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=135014430" target="_blank"
-    style="display: block" align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"
-        srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=78434827&image_size=auto&color_scheme=dark"
-        width="771" height="auto">
-      <img alt="Dashboard stats of @Nagisa77"
-        src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=78434827&image_size=auto&color_scheme=light"
-        width="771" height="auto">
-    </picture>
-  </a>
   <!-- Made with [OSS Insight](https://ossinsight.io/) -->
   <picture>
     <source media="(prefers-color-scheme: dark)"
@@ -28,6 +17,18 @@
   <div> Hi there! I’m Tim — a software engineer by day and a music-maker by night. I love writing clean, efficient code,
     jamming on new tunes, and continually leveling up as I journey toward becoming an independent developer. </div>
 
+  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=135014430" target="_blank"
+    style="display: block" align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+        srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=78434827&image_size=auto&color_scheme=dark"
+        width="771" height="auto">
+      <img alt="Dashboard stats of @Nagisa77"
+        src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=78434827&image_size=auto&color_scheme=light"
+        width="771" height="auto">
+    </picture>
+  </a>
+
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
@@ -38,5 +39,4 @@
         src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
   </div>
-
 </div>
