@@ -1,11 +1,16 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-    <img  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  </picture>
+  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=135014430" target="_blank"
+    style="display: block" align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+        srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=78434827&image_size=auto&color_scheme=dark"
+        width="771" height="auto">
+      <img alt="Dashboard stats of @Nagisa77"
+        src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=78434827&image_size=auto&color_scheme=light"
+        width="771" height="auto">
+    </picture>
+  </a>
+  <!-- Made with [OSS Insight](https://ossinsight.io/) -->
   <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://github-readme-stats.vercel.app/api?username=nagisa77&show_icons=true&hide_title=true&icon_color=ff79c6&text_color=f8f8f2&bg_color=282a36" />
