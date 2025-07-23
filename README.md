@@ -24,13 +24,15 @@
     style="display: block" align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)"
-        srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=78434827&image_size=auto&color_scheme=dark"
+        srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=135014430&image_size=auto&color_scheme=dark"
         width="771" height="auto">
-      <img alt="Dashboard stats of @Nagisa77"
-        src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=78434827&image_size=auto&color_scheme=light"
+      <img alt="Dashboard stats of @nagisa77"
+        src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=135014430&image_size=auto&color_scheme=light"
         width="771" height="auto">
     </picture>
   </a>
+
+  <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
