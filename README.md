@@ -14,8 +14,7 @@
   <div>&nbsp;</div>
 
   <!-- 自我介绍 -->
-  <div> Hi there! I’m Tim — a software engineer by day and a music-maker by night. I love writing clean, efficient code,
-    jamming on new tunes, and continually leveling up as I journey toward becoming an independent developer. </div>
+  <div> I’m Tim. 💻 Love coding 🤟 </div>
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
